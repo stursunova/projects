@@ -1,0 +1,20 @@
+What is error probability[0.1~0.99]?:0.1
+What is the total number of usernames: 100000
+How many of them need to be checked: 1000
+	BF array size =  4294967296
+Time to add 100000 number of users: [ 8.59 ] sec
+Total number of found names:  0
+
+What is error probability[0.1~0.99]?:0.1
+What is the total number of usernames: 1000000 
+How many of them need to be checked: 10000
+	BF array size =  4294967296
+Time to add 1000000 number of users: [ 85.79 ] sec
+Total number of found names:  32
+
+What is error probability[0.1~0.99]?:0.1
+What is the total number of usernames: 10000000
+How many of them need to be checked: 100000
+	BF array size =  4294967296
+Time to add 10000000 number of users: [ 1003.56 ] sec
+Total number of found names:  3641
